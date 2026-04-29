@@ -1,3 +1,5 @@
 # Dinosaur-Test
 This is my repo about Dinosaurs
 It is mostly about a Stegosaurus
+
+In the main branch, Stegosaurus cannot talk.
