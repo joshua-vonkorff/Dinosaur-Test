@@ -7,3 +7,5 @@ In the main branch, Stegosaurus cannot talk.
 
 In Test-2 branch, Stegosaurus can fly.
 In main, Stegosaurus cannot fly.
+
+In main, Stegosaurus cannot swim.
