@@ -9,3 +9,4 @@ In Test-2 branch, Stegosaurus can fly.
 In main, Stegosaurus cannot fly.
 
 In main, Stegosaurus cannot swim.
+In Test-3 branch, Stegosaurus can swim.
